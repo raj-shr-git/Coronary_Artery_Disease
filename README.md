@@ -24,7 +24,7 @@ In this project, I worked with the heart disease dataset to identify the best cl
         4.2 Categorical variables
             a. Get_dummies
     5. Handling class imbalance
-        4.1 Used Random Over Sampler
+        5.1 Used Random Over Sampler
     6. Models Evaluation
         6.1 Naive Bayes
         6.2 Logistic Regression
@@ -38,15 +38,15 @@ In this project, I worked with the heart disease dataset to identify the best cl
         8.1 Gradient Boosting Classifier
         8.2 Random Forest
  
- **_processed.cleveland.data_** : Cleveland Data
+**_processed.cleveland.data_** : Cleveland Data
  
- **_processed.hungarian.data_** : Hungarian Data
+**_processed.hungarian.data_** : Hungarian Data
  
- **_Features detailed handbook.docx_** : Features detailed description handbook
+**_Features detailed handbook.docx_** : Features detailed description handbook
  
- **_Heart Disease Data.xlsx_** : Dataset in excel
+**_Heart Disease Data.xlsx_** : Dataset in excel
  
- **_heart-disease.names_** : Dataset variables description
+**_heart-disease.names_** : Dataset variables description
  
 **Thanks to below dataset creators who donated this dataset on the UCI Machine Learning Repository:**
 
