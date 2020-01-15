@@ -6,7 +6,7 @@ Worldwide each year Cardiovascular disease causes an estimated 17 million deaths
 
 In this project, I worked with the heart disease dataset to identify the best classification algorithm for classifying the heart illness of a person. I comprehensively used the various machine learning models for predicting the outcome with the maximum accuracy. I also used several data pre-processing techniques and performed the extensive model tuning and feature selection techniques to classify the heart disease in a normal and abnormal person with superior precision.
 
-**_This is the supervised learning classification project for predicting the Heart Disease._**
+**_Dataset(Cleveland)_** : **Classification Multivariate with 14 features and 303 records**
 
 **_Coronary_Artery_Disease.ipynb_** : Contains the code with below stages:
 
