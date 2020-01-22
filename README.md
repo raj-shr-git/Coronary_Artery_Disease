@@ -1,4 +1,4 @@
-# Coronary_Heart_Disease
+# Coronary Heart Disease Prediction 
 
 Humans are generating data at a very rapid speed and the healthcare industry holds the paramount data which needs to be analyzed much differently than the traditional approaches. The power of today's modern computers helped us in identifying the hidden patterns from Exabyte's of structured or unstructured data and building the decision support systems on top of it. 
 
