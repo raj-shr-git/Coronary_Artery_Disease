@@ -1,8 +1,8 @@
-# Coronary Heart Disease Prediction 
+# Coronary Artery Disease Prediction 
 
 Humans are generating data at a very rapid speed and the healthcare industry holds the paramount data which needs to be analyzed much differently than the traditional approaches. The power of today's modern computers helped us in identifying the hidden patterns from Exabyte's of structured or unstructured data and building the decision support systems on top of it. 
 
-Worldwide each year Cardiovascular disease causes an estimated 17 million deaths accounting for one-third of all deaths worldwide. Out of this, more than one-third of deaths occur in middle-aged adults. Cardiovascular disease majorly includes Coronary heart disease (CHD) and Cerebrovascular disease (stroke). 
+Worldwide each year Cardiovascular disease causes an estimated 17 million deaths accounting for one-third of all deaths worldwide. Out of this, more than one-third of deaths occur in middle-aged adults. Cardiovascular disease majorly includes Coronary heart disease (CHD) and Cerebrovascular disease (stroke). Coronary Artery Disease(CAD) also commonly known as Coronary Heart Disease(CHD).
 
 In this project, I worked with the heart disease dataset to identify the best classification algorithm for classifying the heart illness of a person. I comprehensively used the various machine learning models for predicting the outcome with the maximum accuracy. I also used several data pre-processing techniques and performed the extensive model tuning and feature selection techniques to classify the heart disease in a normal and abnormal person with superior precision.
 
